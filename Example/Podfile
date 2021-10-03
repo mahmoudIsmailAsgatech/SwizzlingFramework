@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwizzlingFramework_Tests' do
+  pod 'SwizzlingFramework', :path => '../'
+  
+  
+end
